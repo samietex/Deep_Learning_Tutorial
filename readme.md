@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or want to reach out, you can contact the repository maintainer at [YourEmail@example.com](mailto:YourEmail@example.com).
+If you have any questions or want to reach out, you can contact the repository maintainer at [shaibu.samuel@yahoo.com](mailto:shaibu.samuel@yahoo.com).
 
 ---
 Best of luck on your deep learning journey!
