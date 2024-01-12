@@ -47,7 +47,6 @@ Here are some of the tutorials you'll find in this repository:
 | 5   |  Recurrent Neural Network    | [Recurrent Neural Network](/Recurrent_Neural_Network/05_cnn.ipynb)         |
 | 6   |  Face Detection - Recognition     | [Face Detection - Recognition](/Face_Detection_Recognition)           |
 
-... and more. See the [Tutorials Directory](/notebooks) for the complete list.
 
 
 ## Datasets
