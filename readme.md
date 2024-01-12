@@ -40,12 +40,12 @@ Here are some of the tutorials you'll find in this repository:
 
 | No. | Topic                           | Notebook Link                                             |
 |-----|---------------------------------|-----------------------------------------------------------|
-| 1   | Artificial Neural Network         | [MNIST Dataset for ANN](/Artificial_Neural_Network/mnist_artificial_neural_network.ipynb)           |
-| 2   | Convolutional Neural Network      | [Fashion MNIST Dataset for CNN](/Convolutional_Neural_Network/fashion_mnist_neural_network.ipynb)|
-| 3   | Recurrent Neural Network          | [Data Preprocessing Techniques](/notebooks/03_data_preprocessing.ipynb)    |
-| 4   | Face Detection - Recognition      | [Data Augmentation Methods](/notebooks/04_data_augmentation.ipynb)     |
-| 5   | Advanced Deep Learning Models     | [Building a Convolutional Neural Network](/notebooks/05_cnn.ipynb)         |
-| 6   |                                 | [Implementing Recurrent Neural Networks](/notebooks/06_rnn.ipynb)           |
+| 1   |  Deep Learning Frameworks        |  [Deep Learning Frameworks](/Deep_Learning_Frameworks/deep_learning_frameworks.ipynb)          |
+| 2   |  Neural Network Basics      |  [Neural Network Basics](/Neural_Network_Basics/neural_network_basics.ipynb)                              |
+| 3   |  Artificial Neural Network        | [MNIST Dataset for ANN](/Artificial_Neural_Network/mnist_artificial_neural_network.ipynb)    |
+| 4   |  Convolutional Neural Network     | [Fashion MNIST Dataset for CNN](/Convolutional_Neural_Network/fashion_mnist_neural_network.ipynb)     |
+| 5   |  Recurrent Neural Network    | [Recurrent Neural Network](/Recurrent_Neural_Network/05_cnn.ipynb)         |
+| 6   |  Face Detection - Recognition     | [Face Detection - Recognition](/Face_Detection_Recognition)           |
 
 ... and more. See the [Tutorials Directory](/notebooks) for the complete list.
 
