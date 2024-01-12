@@ -41,7 +41,7 @@ Here are some of the tutorials you'll find in this repository:
 | No. | Topic                           | Notebook Link                                             |
 |-----|---------------------------------|-----------------------------------------------------------|
 | 1   | Artificial Neural Network         | [MNIST Dataset for ANN](/Artificial_Neural_Network/mnist_artificial_neural_network.ipynb)           |
-| 2   | Convolutional Neural Network      | [Understanding Activation Functions](/notebooks/02_activation_functions.ipynb)|
+| 2   | Convolutional Neural Network      | [Fashion MNIST Dataset for CNN](/Convolutional_Neural_Network/fashion_mnist_neural_network.ipynb)|
 | 3   | Recurrent Neural Network          | [Data Preprocessing Techniques](/notebooks/03_data_preprocessing.ipynb)    |
 | 4   | Face Detection - Recognition      | [Data Augmentation Methods](/notebooks/04_data_augmentation.ipynb)     |
 | 5   | Advanced Deep Learning Models     | [Building a Convolutional Neural Network](/notebooks/05_cnn.ipynb)         |
