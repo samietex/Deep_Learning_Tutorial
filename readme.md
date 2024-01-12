@@ -40,11 +40,11 @@ Here are some of the tutorials you'll find in this repository:
 
 | No. | Topic                           | Notebook Link                                             |
 |-----|---------------------------------|-----------------------------------------------------------|
-| 1   | Introduction to Neural Networks | [Neural Networks Basics](/notebooks/01_neural_network_basics.ipynb)        |
-| 2   |                                 | [Understanding Activation Functions](/notebooks/02_activation_functions.ipynb)|
-| 3   | Working with Data               | [Data Preprocessing Techniques](/notebooks/03_data_preprocessing.ipynb)    |
-| 4   |                                 | [Data Augmentation Methods](/notebooks/04_data_augmentation.ipynb)          |
-| 5   | Advanced Deep Learning Models   | [Building a Convolutional Neural Network](/notebooks/05_cnn.ipynb)          |
+| 1   | Artificial Neural Network         | [Neural Networks Basics](/notebooks/01_neural_network_basics.ipynb)           |
+| 2   | Convolutional Neural Network      | [Understanding Activation Functions](/notebooks/02_activation_functions.ipynb)|
+| 3   | Recurrent Neural Network          | [Data Preprocessing Techniques](/notebooks/03_data_preprocessing.ipynb)    |
+| 4   | Face Detection - Recognition      | [Data Augmentation Methods](/notebooks/04_data_augmentation.ipynb)     |
+| 5   | Advanced Deep Learning Models     | [Building a Convolutional Neural Network](/notebooks/05_cnn.ipynb)         |
 | 6   |                                 | [Implementing Recurrent Neural Networks](/notebooks/06_rnn.ipynb)           |
 
 ... and more. See the [Tutorials Directory](/notebooks) for the complete list.
